@@ -21,20 +21,3 @@
   })
 
 })()
-
-
-// btns.forEach((btn)=>{
-//   btn.addEventListener('click',(e)=>{
-//       screen.value += e.target.dataset.num
-//   })
-// })
-// equal.addEventListener('click',()=>{
-//   if(screen.value==""){
-//       screen.value=""
-//   }else{
-//       screen.value = eval(screen.value)
-//   }
-// })
-// clear.addEventListener('click',()=>{
-//   screen.value=""
-// })
